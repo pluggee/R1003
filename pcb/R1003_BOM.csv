@@ -1,0 +1,26 @@
+Reference, Value, Footprint, Datasheet, Manufacturer, MPN, SKU
+J1,PCIEXPRESS-X1,Main:PCIEXPRESS-X1,,Amphenol FCI,10018784-10200TLF,
+R4,10k,Resistors_SMD:R_0603,
+R5,10k,Resistors_SMD:R_0603,
+R6,10k,Resistors_SMD:R_0603,
+R7,10k,Resistors_SMD:R_0603,
+R8,10k,Resistors_SMD:R_0603,
+R2,10k,Resistors_SMD:R_0603,
+R1,10k,Resistors_SMD:R_0603,
+U1,EFM8BB10F2G,Main:QFN50P300X300X75-20NT170X170,,Silicon Labs,EFM8BB10F2G-A-QFN20R,STUFF
+C1,0.1u,Capacitors_SMD:C_0603,
+R3,10k,Resistors_SMD:R_0603,
+R9,5.6k,Resistors_SMD:R_0603,
+C2,0.1u,Capacitors_SMD:C_0603,
+R13,4.7k,Resistors_SMD:R_0603,
+J2,CONN_01X03,Main:SOCKET254P-01X03,,TE Connectivity AMP Connectors,3-644456-3,STUFF
+J3,CONN254P-02X04,Main:CONN254P-02X04,,Amphenol FCI,68021-408HLF,STUFF
+R10,5.6k,Resistors_SMD:R_0603,
+C3,0.1u,Capacitors_SMD:C_0603,
+R14,4.7k,Resistors_SMD:R_0603,
+R11,5.6k,Resistors_SMD:R_0603,
+C4,0.1u,Capacitors_SMD:C_0603,
+R15,4.7k,Resistors_SMD:R_0603,
+R12,5.6k,Resistors_SMD:R_0603,
+C5,0.1u,Capacitors_SMD:C_0603,
+R16,4.7k,Resistors_SMD:R_0603,
