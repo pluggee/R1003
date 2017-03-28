@@ -1,4 +1,4 @@
-update=Fri 29 Jul 2016 07:38:57 PM PDT
+update=Tue 28 Mar 2017 02:15:43 PM PDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -34,3 +34,8 @@ LibName2=device
 LibName3=analog
 LibName4=connect
 LibName5=microcontroller
+LibName6=cap_smd
+LibName7=cap_smd_extra
+LibName8=res_smd
+LibName9=res_smd_extra
+LibName10=systems
