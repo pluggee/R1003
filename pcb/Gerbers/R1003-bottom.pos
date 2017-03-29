@@ -1,0 +1,18 @@
+### Module positions - created on Wed Mar 29 11:26:42 2017 ###
+### Printed by Pcbnew version kicad 4.0.6-e0-6349~53~ubuntu14.04.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                Package                PosX       PosY       Rot  Side
+C2        CC0603KRX7R9BB104  CAPC0603           147.2000   -87.3000  270.0000  bottom
+C3        CC0603KRX7R9BB104  CAPC0603           135.0000   -87.3000  270.0000  bottom
+C4        CC0603KRX7R9BB104  CAPC0603           135.0000   -74.7000   90.0000  bottom
+C5        CC0603KRX7R9BB104  CAPC0603           147.0000   -74.6000   90.0000  bottom
+R9        RC0603FR-0710KL    RESC0603           158.1000   -87.0000  270.0000  bottom
+R10       RC0603FR-0710KL    RESC0603           146.0000   -84.5000  270.0000  bottom
+R11       RC0603FR-0710KL    RESC0603           146.0000   -77.5000   90.0000  bottom
+R12       RC0603FR-0710KL    RESC0603           158.1000   -75.0000   90.0000  bottom
+R13       RC0603FR-074K7L    RESC0603           160.0000   -87.0000   90.0000  bottom
+R14       RC0603FR-074K7L    RESC0603           160.0000   -83.0000   90.0000  bottom
+R15       RC0603FR-074K7L    RESC0603           160.0000   -79.0000  270.0000  bottom
+R16       RC0603FR-074K7L    RESC0603           160.0000   -75.0000  270.0000  bottom
+## End
