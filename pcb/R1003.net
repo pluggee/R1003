@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/sherif/git/R1003/pcb/R1003.sch)
-    (date "Tue 28 Mar 2017 02:32:28 PM PDT")
+    (date "Sat 15 Apr 2017 09:05:41 PM PDT")
     (tool "Eeschema 4.0.6-e0-6349~53~ubuntu14.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -26,7 +26,7 @@
       (tstamp 575CF2BC))
     (comp (ref J2)
       (value CONN_01X03)
-      (footprint Main:SOCKET254P-01X03)
+      (footprint Main:CONN254P-01X03)
       (fields
         (field (name Manufacturer) "Amphenol FCI")
         (field (name MPN) 68001-403HLF)
